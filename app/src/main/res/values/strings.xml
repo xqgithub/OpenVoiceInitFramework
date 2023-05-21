@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OpenVoice</string>
+
+    <string name="title_home">关注</string>
+    <string name="title_public_local">推荐</string>
+    <string name="title_trade">交易</string>
+    <string name="title_creation">创作</string>
+    <string name="title_notifications">通知</string>
+
+    <string name="speed">倍速</string>
+    <string name="switched_shuffle">已切换到随机播放</string>
+    <string name="switched_sequential">已切换到顺序播放</string>
+    <string name="play_speed">播放速度</string>
+    <string name="cancel">取消</string>
+</resources>

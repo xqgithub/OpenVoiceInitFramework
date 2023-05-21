@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.shannon.openvoice",
+  "variantName": "officialRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 1,
+      "versionName": "0.1.0",
+      "outputFile": "OpenVoice_v1_official_07211505.apk"
+    }
+  ],
+  "elementType": "File"
+}
